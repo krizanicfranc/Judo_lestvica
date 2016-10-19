@@ -12,4 +12,6 @@ odpremo git bash(ne cmd)
 ali obstaja .ssh mapa in v njej ključi?
 če ne: ssh-keygen -t rsa -C"git-kljuc"
 v mapi .ssh imamo dve datoteki
- id_rsa, id_
+ id_rsa, id_rsa.pub
+ 
+ ukaze lahko vpisujemo v git bash ali poženemo program git gui
