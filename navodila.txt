@@ -1,0 +1,7 @@
+glavni ukazi:
+*git pull(ko uporabimo git prviè, kloniramo in ne potegnemo)
+*naredimo spremembe
+*git add readme.md
+*git commit -m "sporocilo"
+*git push
+
