@@ -1,5 +1,5 @@
 # Judo_lestvica
-To je naš _prvi_ projekt.
+(To je naš _prvi_ projekt.
 
 *inštaliri 'msysgit'
 odpremo git bash(ne cmd)
@@ -14,4 +14,6 @@ ali obstaja .ssh mapa in v njej ključi?
 v mapi .ssh imamo dve datoteki
  id_rsa, id_rsa.pub
  
- ukaze lahko vpisujemo v git bash ali poženemo program git gui
+ ukaze lahko vpisujemo v git bash ali poženemo program git gui)
+
+To je projekt pri programiranju 1
