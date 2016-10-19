@@ -17,3 +17,5 @@ v mapi .ssh imamo dve datoteki
  ukaze lahko vpisujemo v git bash ali poženemo program git gui)
 
 To je projekt pri programiranju 1
+
+test
