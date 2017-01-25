@@ -7,4 +7,4 @@ Zajel in obdelal bom podatke o aktivnih judoistkah in judoistih s spletne strani
 in olimpijskih medalj glede na pripadost državi in po potrebi dodajal analitične cilje
 
 Projekt je v datoteki Analiza.ipynb,
-podatki so bili prenešeni (novembra) z Prenos_podatkov.ipynb za judoke.csv in Prenos_medalj.ipynb za medalje.csv
+podatki so bili prenešeni (novembra) s Prenos_podatkov.ipynb za judoke.csv in Prenos_medalj.ipynb za medalje.csv
