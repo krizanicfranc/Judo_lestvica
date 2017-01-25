@@ -1,4 +1,4 @@
-# Judo_lestvica
+# Judo lestvica
 
 Projekt pri programiranju 1
 
